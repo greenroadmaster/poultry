@@ -1,4 +1,0 @@
-# Finance based Management
-
-## Sales
-
