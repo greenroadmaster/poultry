@@ -1,0 +1,17 @@
+# Marketing of Products
+It is important to carry out a detailed market study to understand the production costs and expected revenue before starting any production actiwty. Con5ult to acquire knowledge on how to run a successful chicken business.   
+
+## Commercialization
+
+Live birds and fertile eggs are sold in local markets. In these markets; live birds are sold at variable prices depending on demand, weight, plumage and colour. Cocks are highly priced compared to hens. Indigenous chicken products fetch higher prices than those from exotic breeds.   
+
+## Chicken for sale
+At the age of 6 months the dressed (slaughtered) weight of a cock is approximately 1.5 kg. These are ready for sale in prime markets. Breeding cocks should be sold when mating is inefficient (low fertility/ hatchability) or to avoid inbreeding. Care should be taken not to return live birds from the market to the farm due to disease.   
+
+
+## Eggs for sale
+
+Eggs should be collected and sold while fresh,
+particularly when cooling is not possible. Collect eggs from the laying boxes at IeaSt three times in a day and store them in a dark, cool place. Dirty eggs should be cleaned with a dry cloth and sold immediately.
+Cleaning eggs with water destroys the shells and the natural protection against infection.
+Pack eggs in egg trays or other suitable containers to avoid breakage. If profitable, grade your eggs according to size. Always keep records of your production and sale.   
