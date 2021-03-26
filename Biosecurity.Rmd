@@ -1,0 +1,23 @@
+# Biosecurity
+
+Biosecurity is a set of management practices which when followed, reduces the likelihood of introducing or spreading disease causing organisms Infectious agents can survive for a certain period in the environment and spread via persons. animals and materials that might carry the agent. The infectious agent is carried with small traces of droppings on shoes, dust, small feathers attached to any rough surface, eggshell or any part of a dead
+chicken (Fig: 42)   
+
+Fig. 41: A fenced poultly unit with restricted entry and a pedestrian foot bath at the entrance.   
+
+
+NOTE: Some infectious poultry diseases for example Newcastle disease cannot be controlled by good production and flock management alone. Such diseases are caused by contagious viruses and can lead to high losses in chicken or other poultry species. Because of their huge impact on the poultry industry, they are referred to as noti?able diseases. Outbreaks must be reported to, and control measures coordinated by, the veterinary departments.   
+
+
+Fig. 42: How diseases are spread 
+
+## Common Biosecurity Measures
+
+Common Biosecurity Measures
+- Location: Avoid locations close to existing premises (between farms 500m ~1km); Use prevailing wind directions when planning to minimize risk of airborne infection
+- All-in-all-out: Reduce build up ofdisease causing organisms by breaking the rearihg-cycle for different ages.
+- Litter disposal: Remove used litter and properly dispose and disinfect it.
+- Site security: Reduces possible introduction of infection to premises mainly from personnel moving between houses and flocks, equipment and other innate objects. Use foot and vehicle bath 
+
+Fig. 43: Bio- security measures;
+Disposing dead birds through burying and burning.   

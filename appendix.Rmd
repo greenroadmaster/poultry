@@ -1,0 +1,20 @@
+# (APPENDIX) Appendix {-}
+
+```{r, include = FALSE}
+source("common.R")
+```
+
+# Organic Poultry Course {#css-crash}
+
+# Poultry Farm Equipments
+
+## Poultry Production System
+
+## Poyltry Farm Management System
+
+## Poultry Housing
+
+## Incubation-Hatching Equipment
+
+## Feed
+

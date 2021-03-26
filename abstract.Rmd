@@ -1,0 +1,24 @@
+# Abstract
+
+최근에는 유기농 농업이 득세합니다. 
+일반농업과 같은 프로세스이나 법적 표준적 제도가 다릅니다. 
+
+현재 농장 트렌드와
+그에 맞는 농장계획과 운영을 위한 전반적인 항목을 조사해 보았습니다. 
+
+
+'Organic agriculture' (OA) advocates against the application of chemical and genetically modified (GM) materials on farms except those approved by the United States Department of Agriculture (USDA) National Organic Standards Board (NOSB) which consists of a voluntary team of 15 advisors selected by the
+secretary of the United States of Agriculture. 
+
+'Globally', OA has grown approximately by 20 % yearly as consumers and growers make healthier food choices and show more concern about the impacts of our actions on the environment. OA attempts to increase the level of food security and create a more sustainable environment for future generations. Nevertheless, OA is not without its challenges. 
+
+In this chapter, we take a look at the history, the present, and the future of OA. Our focus is on outlining briefly the status of OA on various continents, their certification processes, global challenges, benefits and impacts, the way forward, the position of the government, policies and the institutions, and consumer behavior toward OA.
+
+
+농장을 실현하기 위한 3가지 작은프로젝트가 있습니다. 
+
+농장 설치를 위한 Engineering Procurement and Construction(EPC) 입니다.
+농장 운영을 위한 Operational and Maintenance (O & M) 입니다. 
+농장 관리를 위한 Finalcial Management기 있습니다. 
+
+Keywords Sustainable � Organic certification � Organic management practices

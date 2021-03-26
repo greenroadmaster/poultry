@@ -1,0 +1,96 @@
+# Organic System Plan (OSP)
+
+§ 205.201 Organic production and handling system plan Under the USDA organic regulations, each certified organic farm must have an Organic System Plan (OSP). The OSP is a detailed outline that explains how you
+intend to operate your farm or ranch to satisfy the requirements of the regulations.
+
+According to § 205.201(a), the OSP must contain the following:
++ A description of farm practices, including the frequency with which they will be performed
++ A list of each substance to be used as a production input
++ A description of monitoring practices, including the frequency with which they will be performed, to verify that the plan is effectively implemented
++ A description of the recordkeeping system implemented to comply with the
+requirements established in § 205.103 (see Chapter 13)
++ A description of the management practices and physical barriers established to prevent commingling of organic and conventional products and to prevent contamination of organic products with prohibited substances
++ Any additional information deemed necessary by the certifying agent to evaluate compliance with the regulations
+
+
+Developing and then maintaining the OSP is an essential part of the initial and ongoing certification process. The OSP must be written by the producer and approved by the certifier. Taking care to write clearly and thoroughly can save time later. The OSP provides a description of your farm to a person who has never seen it. It must be sufficiently detailed so that the certifier can get a clear picture of your farm’s **crops, harvest, sales, recordkeeping, soil-building practices, pest management, and any other practices related to organic production**. The plan must allow the certifier to assess whether you can meet the requirements for organic certification.
+
+The OSP covers many aspects of your organic farm:
+•	 Crops to be grown
+•	 Farm acreage — organic
+•	 Source of seeds or plants
+•	 Maintaining soil fertility
+•	 Preventing pest outbreaks
+•	 Controlling weeds
+•	 Managing diseases
+•	 Sales and marketing
+
+Producers should use the OSP to explain the practices they use to manage their farms. It is particularly important to describe all management practices used to prevent problems rather than merely reacting to them. For example, apple growers should have plans to monitor codling moth, and asparagus growers should have plans to manage asparagus aphids.
+Having these monitoring and management practices in place will enable an organic farmer to address pest pressure before an infestation becomes severe. The time spent to ensure accuracy and completeness on your OSP is worthwhile because the OSP is vital for managing your farm and assuring compliance with the regulations.
+
+
+It is standard practice for the OSP to be incorporated in the application materials that are required by certifiers. In other words, you are completing your OSP at the same time that you are filling out your application for certification. There may be some instances in which plans submitted to qualify for Federal aid or assistance programs may satisfy the requirement for an OSP.
+
+## The materials list
+The OSP includes a list of each substance to be used as a production input, sometimes called a Materials List. This is simply a list of composts, fertilizers, insecticides, fungicides, or other materials that might be used. Certifiers realize that farmers are not able to predict every eventuality and that unforeseen problems will occur. If there is a need to apply a pest control or other material that was not originally listed in the system plan, contact your certifier to add it to your OSP. Many certifiers will accept notifications by telephone, fax, or email. 
+
+Do not wait until inspection to update your OSP.
+There have been unfortunate instances of farmers who applied a material without receiving approval from their certifier, only to discover later that the material was prohibited. If this happens, the certifier must revoke certification from the fields to which the prohibited material was applied. The land is not eligible for organic status again for 36 months from the last application of the prohibited material.
+
+## Split operations
+Many conventional farmers choose to explore organic production by converting only a small portion of their land to organic practices, while continuing to farm the rest of land in a conventional manner. Production of both organic and nonorganic products is called split production. Crops grown during the 36-month transition period are considered conventional. Parallel production, a subset of split production, refers to a situation where the same crop is produced both organically and conventionally on the same farm operation.
+In parallel operations, it is particularly important that the OSP address all hazards of contamination and commingling that may arise. Contamination can be defined as contact with a prohibited substance (for example, conventional pesticides). This includes physical contact with conventionally grown products. Commingling is the mixing of an organic product with a similar conventional product (for example, mixing organic and conventional grain in the same grain bin). For split operations, many certifiers request information on both conventional and organic crops. The certifier and the inspector will want to ensure that procedures are well documented to ensure the integrity of organic products. Chapter 11 “Preventing Contamination of Organic Crops”
+
+## provides additional information.
+
+§ 205.202 Land requirements
+Fields from which organic crops are harvested must have distinct, defined
+boundaries and buffer zones. No prohibited materials can be applied to the land
+for a period of 36 months prior to harvest of the organic crop. Prohibited materials
+include synthetic fertilizers and seeds treated with fungicides, as well as most synthetic
+(chemical) herbicides, pesticides, and fungicides.
+
+### The farm map
+An accurate map of all farm acreage and production units is typically required as part of
+the OSP. Important map features include the following:
+•	 Consistent scale
+•	 Permanent field numbers or names
+•	 Buildings, roads, and permanent features
+•	 Streams, ponds, irrigation ditches
+•	 Field boundaries
+•	 Adjoining land use: conventional, organic, or fallow
+•	 Buffer zones
+Organic crops must be protected from contamination by prohibited substances, such
+as pesticides and fertilizers, used on adjoining lands. Preventing contamination usually
+requires a multi-pronged approach for organic systems.
+Strategies may include one or more of the following:
+•	 Isolation. Fields located at substantial distances from conventional production or
+roadside spraying are considered to be adequately protected.
+•	 Barriers. Tall plants and trees serve as barriers to airborne contaminants.
+•	 Buffer zones. Buffers are used to separate adjoining crops that are conventionally
+managed. Crops harvested from buffer zones must be sold as conventional. 
+
+•	 Drainage diversion. Water runoff from conventional fields is diverted.
+•	 Posting of property. Signage reading “Organic Farm: Do Not Spray” is placed at
+field boundaries. You may need to assume responsibility for weed control on roadsides and post signs reading “Owner Will Maintain.”
+•	 Formal notification. Written notification of your organic status is provided to
+neighbors who manage adjoining lands. Copies of formal notification letters must
+be kept on file.
+
+Regulations do not specify the required width for a buffer zone, but they state that buffers
+must be “sufficient to prevent contamination.” It is the farmer’s responsibility to assess the
+risks and take appropriate measures to minimize contamination. Therefore, the width of
+buffers must be adjusted for individual circumstances. For example, a more significant buffer is needed where adjacent land is sprayed by plane or airblast sprayer or where there are
+prevailing winds that blow across nonorganic fields onto the organic farm. A smaller buffer may be needed if a row of tall trees provides a barrier to drift. Regardless of the size of
+the buffer, any crops harvested from buffer zones must be sold as conventional. Sale must
+be documented and available for review at inspection.
+Water runoff from conventional fields can contaminate organic crops. If the possibility of
+contamination exists, a drainage ditch will be needed.
+Field histories for new fields and new farms
+Field histories will be required the first time you request to have a field certified organic. To
+obtain organic certification for a field, you must be able to document all materials applied
+to that field for 36 months prior to the harvest of a first organic crop.
+Field histories for new fields should document the following:
+•	 Field size (You may use square footage for greenhouse/production beds.)
+•	 Crops, including cover crops, for the past 36 months
+•	 All inputs used for the past 36 months 

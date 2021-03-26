@@ -1,0 +1,30 @@
+# Equipment
+
+## Component of Equipments
+
+### Tractor
+
+
+## Feeding system
+### Feed bin
+### Feed transport
+### Feed Feeder
+
+
+## Watering system
+### Water tank
+### Water transport line
+### Water feeder
+
+## Lighting system
+### Panel
+### Electricity transport line
+### bulb
+
+## Ventilation system
+### Fan and Window
+
+## Mechanical / Electrical / E&I 
+### Pump
+### Control panel
+### Control sisgan line

@@ -1,0 +1,8 @@
+---
+title: "Think Long Think Wrong"
+author: "Byeong H. Won"
+date: '2021 3 24 '
+output: html_document
+---
+
+# Think Long Think Wrong

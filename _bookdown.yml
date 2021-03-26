@@ -1,0 +1,38 @@
+book_filename: "allchick-book"
+repo: ""
+#output_dir: "docs"
+delete_merged_file: true
+language: 
+  ui:
+    chapter_name: 'Chapter '
+new_session: yes # Each chapter is knitted as its own Rmd file
+#rmd_subdir: ["", "",""]
+rmd_files: [
+  "index.Rmd", 
+  "abstract.Rmd",
+  
+  "Introduction.Rmd",  
+  "literature-review.Rmd",
+  
+  "EPC.Rmd",
+  "facilities.Rmd",
+  "Incubation-Hatching.Rmd",
+  
+  "OandM.Rmd",
+  "Labor.Rmd",
+  "Materials.Rmd",
+  "Equipment.Rmd",
+  "Breeding.Rmd",
+  "Placement.Rmd",
+  
+  "Diseases.Rmd",
+  "Biosecurity.Rmd",
+
+
+
+  "financing.Rmd",
+  "Production-System.Rmd",    
+  "CostBenefit.Rmd", 
+  "Data-Record.Rmd",
+  "Marketing.Rmd"
+  ]

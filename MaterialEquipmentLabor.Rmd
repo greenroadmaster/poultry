@@ -1,0 +1,138 @@
+# Material and Equipment
+
+In order to optimize efficiencies and improve
+business performance in this area, the owner/
+operator implemented Monitor’s mpower
+software to support the following process:
+> record all LEMs in mpower, verifying data
+accuracy of Work Orders, Network Activities,
+WBSs, Cost Centers, Internal Orders, labor
+rates as well as the vendors’ material and
+equipment codes
+> based on DOA levels, eLEMs are dispatched to
+the appropriate technical approval authority
+> once technically approved, eLEMs are forwarded
+to the appropriate financial approval authority
+> all of these processes are controlled using the
+mpower workflow engine and users are alerted
+via email and application notifications that
+actions are required
+> escalation processes are built-in if eLEMs are
+not approved in the required business timeframe
+> financially approved, fully validated eLEMs are
+posted in real-time to SAP as Service Entries
+> at all stages in the process, eLEMs may be
+rejected, re-positioned in the workflow or even
+revoked should the transaction need to be
+reversed in SAP
+
+Project Management for Construction: Labour, Material and Equipment
+
+BY: ADMINPOSTED ON: MARCH 18, 2020
+Construction Project Management (CPM) is a very difficult task and involves meticulous planning of lot of tasks and considering various situations. Basically, CPM is the art of directing, regulating and supervising human, equipment and material resources throughout the life of a construction project by using modern management techniques to achieve predetermined objectives of scope, cost, time, quality and participating objectives. Simply put, CPM involves overall planning, coordination and control of the construction projects from beginning to completion.
+
+Today, CPM has become the need of the hour as the construction industry is growing at a very fast pace. Here is a look at what are the important elements of CPM and the importance of efficiency of labour, material and equipment in it.
+
+Mahindra RoadMaster motor graders
+Important elements of CPM
+
+CPM encompasses a set of defined objectives which are accomplished by implementing a series of operations. These include…
+
+1. Defining the project objectives and plans including the scope, budgeting, scheduling, setting performance requirements and selecting project participants.
+
+2. Maximising efficient resource utilisation through procurement of labour, materials and equipment.
+
+3. Implementing various operations through proper coordination and control of planning, design, estimating, contracting and construction and overlooking the whole procedure till the end.
+
+Particularly, effective utilisation of labour, material and equipment is essential in CPM as they highly impact the construction project and construction companies. In fact, if the three factors are not dealt well, companies may be thrown out of business or mainstream construction activities and construction projects may be halted forever.
+
+Effective labour utilisation is the key in CPM
+
+Labour force and the skill, experience, leadership skills and motivational level of every worker affect the jobsite productivity to a very large extent. Further, labour constitutes a large part of the construction cost. Hence, as a part of good CPM process, effective labour utilisation is necessary. Project managers are aware of this fact very well and take various steps and adopt practices like maximisation of learning curve, having work shifts etc., to maximise the labour productivity. If we talk about steps taken to maximise the learning curve, then the project managers ensure that the crew works on a similar type of work throughout the project. This is because this increases the productivity of the workers as over the period of time they get familiar with the site, materials and job conditions, thus, their speed increases. Further, project managers also prefer to have work shifts at the sites as this also increases productivity and do not allow labour fatigue to hamper the work quality. Likewise, there are many steps that are taken by project managers for effectively utilising the labour at the construction site.
+
+Effective material utilisation is also important in CPM
+
+Material procurement and managing the cost, managing the inventory of materials and ensuring timely flow of the material are few things that constitute material management which is also an important element in CPM and planning for construction. It is because materials represent a major expense in construction, so minimising procurement or purchase costs is important. That said, poor material management can result in large and unavoidable costs during construction. Thus, project managers are always very careful about effective material utilisation.
+
+Effective construction equipment utilisation is also a major part of CPM
+
+Construction Equipment (CE) highly affect the jobsite productivity of a project as they have a huge impact on time and effort needed to complete a task. Further, there is a variety of CE used at the construction sites. Thus, effective CE utilisation becomes equally important for the project managers and forms an important part of the CPM. This makes it necessary for the project managers to be adequately familiar with the characteristics of major types of equipment commonly used in construction. Further, since CE have a huge impact on the entire construction cost; it is always wise for the project managers to think carefully about the right CE before renting, leasing or purchasing it. For that, project managers need to look at few things like…
+
+1. Large jobsites with heavy load of work require large equipment and that too in large numbers and vice versa.
+
+2. When more work has to be done in the shortest possible time, there is need for more equipment. If there is good time at hand, then work can be completed with less equipment only.
+
+3. If the equipment has to be transported from a distant location, then it can add up to the overall cost.
+
+4. Depending on the soil characteristics, terrain and environment, the equipment need to be chosen.
+
+Thus, the project managers have to exercise caution in selecting the right CE as effective utilisation of the CE can result in huge profits and recognition due to the timely project completion with minimum errors. Well, here CE from Mahindra Construction Equipment (MCE) deserve a mention. Both Mahindra EarthMaster backhoe loaders and Mahindra RoadMaster motor graders from MCE are technologically-advanced, offer high performance, save energy and fuel, reduce maintenance cost and come at an affordable price. Thus, they can be the best bet for the project managers.
+
+In a nutshell
+
+Material, labour and equipment are the primary three resources to be considered when planning a construction project as if they are not in place and coordinated well, then the entire construction process can be hampered and the project may fail due to delays. Thus, for efficient project management for construction, effective utilisation of labour, material and equipment is a must. Hence, construction companies or contractors who want to climb the ladder of success need to necessarily pay attention to CPM and ensure that the three things i.e., labour, material and equipment are utilised in the best possible manner.
+
+
+LEM Solutions – Driven by mpower software
+A leading oil & gas owner/operator recently implemented
+Monitor’s mpower project controls software to manage their
+entire site Labor-Equipment-Materials (LEM) data collection,
+validation, approval and processing at their Fort McMurray,
+Alberta facility. This was a very important and strategic project
+for Monitor as the LEM solution is not only a localized solution
+but one being positioned as a corporate standard for LEMs
+management – therefore opening global doors.
+
+
+History and Business Challenge
+The specific customer uses SAP as its back-end business
+management system. Traditionally all of their sub-contractor
+costs for LEMs were uploaded into SAP via Service Entries.
+This old process was very manual, prone to errors, inefficient,
+and failed to deliver the level of information and controls
+required to manage ongoing operations and projects.
+Recognizing these deficiencies, the owner/operator’s challenge
+was to implement:
+• A ‘front-end’ solution which could collect, validate and approve
+all LEMs at a controlled level
+• A solution which could be fully integrated with SAP and enforce
+all of the SAP business rules, e.g. DOA (delegation of authority)
+approval limits and PO expiry dates.
+• A solution which could be fully integrated with the SAP
+Purchase Order and Outline Agreement sub-systems, thereby
+delivering full job costing data to the LEM Approvers
+• A solution which could be embraced by sub-contractors by
+making the administration of LEMs easier and the overall
+management process more automated and efficient
+Monitor’s mpower software was the system of choice.
+
+
+# Labor, Equipment and Material (LEMs) 
+
+## 프로젝트 관리레벨에서 데이터의 통합은 금전단위에서 순현재가치로 통합하여 평가할 수 있습니다. 
+하지만 중소형 농가에서는 데이터의 수집, 통합, 프로세스 의사결졍까지 순조롭지 않을 수가 있기 때문에 
+collect, validate and approve all LEMs at a controlled level to fully integrate with ERP
+먼저 말했듯이 세세한 데이터의 기록이 좋긴 하지만 중소형 농가에서는 일일 과업을 1 기준으로 
+1에 부합할 때 생산성충족, 부족할 때 생산성부족 으로 구분하는 것이 편리합니다. 
+
+
+# 1일 과업량을 설정합니다. 
+양계장 구성요소 수준에서 매일 신경써야할 일을 1일 과업량으로 설정합니다. 
+
+그 외 업무는 전략업무로 설정합니다. 
+전략업무는 매니저수준에서 의사결정을 하며 업무는 외주로 진행합니다. 
+
+
+## 예를 들어 
+일일 1만수 양계를 할 때 
+필요한 사료의 양은?
+사료를 배급하고 계란을 수집하며 시설을 일부 유지보수할 인력은?
+농장에서 운용하는 사료저장, 공급, 물저장, 공급라인을 관리할 인력은
+이 인력을 수퍼바이징할 인력을 설정합니ㅏㄷ. 
+
+어린닭 구매, 노계출하, 백신, 영양제, 사료구매 등은 수의사와 사료업체와 협력하는 것이 편리합니다. 
+
+
+
+
+이 데이터를 통합하여 1일 과업량을 설정합니다. 
